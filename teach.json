@@ -1,0 +1,33 @@
+{
+    "type": "template",
+    "altText": "this is an image carousel template",
+    "template": {
+      "type": "image_carousel",
+      "columns": [
+        {
+          "imageUrl": "https://i.imgur.com/YBz0gIX.png",
+          "action": {
+            "type": "uri",
+            "label": "點我看深蹲教學影片",
+            "uri": "https://www.youtube.com/watch?v=REjznoKN8Q8"
+          }
+        },
+        {
+          "imageUrl": "https://i.imgur.com/f6l1Axs.jpg",
+          "action": {
+            "type": "uri",
+            "label": "點我看臥推教學影片",
+            "uri": "https://www.youtube.com/watch?v=zhcgWWezcpc"
+          }
+        },
+        {
+          "imageUrl": "https://i.imgur.com/gI32p14.jpg",
+          "action": {
+            "type": "uri",
+            "label": "點我看仰臥起坐教學影片",
+            "uri": "https://www.youtube.com/watch?v=e_GY_INV9pQ"
+          }
+        }
+      ]
+    }
+  }
